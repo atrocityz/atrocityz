@@ -13,11 +13,11 @@
 <img src="img/t-img.png" width="54" height="100" alt="T" />
 <img src="img/y-img.png" width="64" height="100" alt="Y" /> -->
 
-<div align="center">
+<!-- <div align="center">
     <h1>Ruslan Belousov (@atrocityz)</h1>
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=500&lines=I+am+studying+to+be+a+frontend+developer"/>
     <h3></h3>
-</div>
+</div> -->
 
 ## Tools & Languages
 
